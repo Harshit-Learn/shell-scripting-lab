@@ -27,7 +27,7 @@ B) To execute the script , these are two method
 
 comment
 
-<<comment
+
 # 1.Variables
 name="gjfdjfhjfh"
 echo "Name is $name , Date is $(date)"
@@ -77,7 +77,7 @@ then
 else
 	echo "Not eligible"
 fi
-comment
+
 
 read -p "Enter your Name" name;
 
